@@ -1,1 +1,2 @@
-# Preprocess script for tag-manager
+# Preprocessing script
+print('Preprocessing completed')
