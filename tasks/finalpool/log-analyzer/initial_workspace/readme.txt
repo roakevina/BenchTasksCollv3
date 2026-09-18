@@ -1,1 +1,1 @@
-Readme for initial workspace
+Initial workspace for log-analyzer
